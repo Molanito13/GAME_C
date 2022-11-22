@@ -1,0 +1,125 @@
+#s:1|Recepcion|32|14|-1|2|1| ____               ____ |/    \             /    \|\____/             \____/|Es obligatorio usar mascarilla y lavarse las manos con gel|Te encuentras en la recepcion, esta prohibido dejar cosas en el suelo, al norte tienes el ascensor. 
+#s:2|Casilla 2|8|1|7|3|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Tienes aulas tanto al norte como al sur
+#s:3|Casilla 3|9|2|7|4|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Al norte se encuentra la sala de Susana Holgado
+#s:4|Casilla 4|28|3|29|5|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Puedes coger tanto el ascensor como las escaleras
+#s:5|Casilla 5|12|4|10|6|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Tienes aulas tanto al norte como al sur
+#s:6|Casilla 6|11|5|10|13|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Delante tienes el salon de actos
+#s:7|Aula 5|3|-1|-1|-1|0|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Este es el aula 5|Ahora mismo estan en clase de calculo
+#s:8|Aula 10|-1|-1|2|-1|0|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Este es el aula 10|No hay nada que llame la atencion
+#s:9|Sala Susana Holgado|-1|-1|3|-1|1| ___________________     |/_  _  _  _  _  _  _\    |\___________________/    |Sala Susana Holgado|¿Quién es Susana Holgado?
+#s:10|Aula 6|6|-1|-1|-1|0|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Este es el aula 6|Estan dando clase de programacion
+#s:11|Aula 7|-1|-1|6|-1|0|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Este es el aula 7|Esta vacia
+#s:12|Aula 8|-1|-1|5|-1|0|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Este es el aula 8|No hay nada que llame la atencion
+#s:13|Salon actos|-1|6|-1|-1|1|   ___________________   |   )__)__)__)__)__)__)   |   )__)__)__)__)__)__)   |Hay un perro dentro!|Puedes acariciarlo!
+#s:14|Casilla 7|19|15|21|1|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo derecho|Tienes aulas tanto al norte como al sur
+#s:15|Casilla 8|20|16|21|14|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo derecho|Tienes aulas tanto al norte como al sur
+#s:16|Casilla 9|30|17|31|15|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo derecho|Puedes coger tanto el ascensor como las escaleras
+#s:17|Casilla 10|25|18|22|16|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo derecho|Las asociaciones estan al norte!
+#s:18|Casilla 11|24|27|23|17|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo derecho|La cafeteria esta justo al lado
+#s:19|Lab bajo|-1|-1|14|-1|1|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Laboratorio de la planta baja|No se sabe para que se usa
+#s:20|Aula 1|-1|-1|15|-1|0|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Este es el aula 1|Estan dando clase de EDAT
+#s:21|Aula 2|15|-1|-1|-1|0|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Este es el aula 2|Estan dando clase de SOPER
+#s:22|Aula 3|17|-1|-1|-1|1|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Vaya aula mas pequeña|Las mesas tienes enchufes
+#s:23|Aula 4|18|-1|-1|-1|1|I-I--------I-I--------I-I|I-I--------I-I--------I-I|I-I--------I-I--------I-I|Este es el aula 4|Hay una llave en el suelo
+#s:24|Comedor|-1|-1|18|-1|1| ____    ____    ____    |[____]  [____]  [____]   | |Comedor|Menu 5.50
+#s:25|Mini Comedor|26|-1|17|-1|0| _____    _____          |[_____]  [_____]       []| |Comedor pequeño|Puedes calentar tu comida aqui
+#s:26|Asos cerradas|-1|-1|25|-1|0|       |<O)__/ | \_-/  |Sala cerrada|No se puede abrir
+#s:27|Cafeteria|-1|-1|-1|18|1| _   _   _   _   _   _   |[_] [_] [_] [_] [_] [_]  | |Cafeteria|Te han preparado comida para llevar, cogela
+#s:28|Ascensor izq|34|-1|4|-1|1|              ______     |             {__[]__}    | |Ascensor|Puedes subir a la segunda planta por aqui
+#s:29|Escalera izq|4|-1|33|-1|1|                 _[""]   |               _[    ]   |              [______]   |Escaleras|Puedes subir a la segunda planta por aqui
+#s:30|Ascensor dcha|-1|-1|16|-1|0|       |       |       |Ascensor|Esta inhabilitado
+#s:31|Escalera dcha|16|-1|-1|-1|0|       |       |       |Escaleras|No pueden usarse
+#s:32|Subir centro|-1|-1|1|-1|1|              ______     |             {__[]__}    | |Escaleras y ascensor|Puedes subir por aqui al segundo piso
+#s:33|Escalera arriba izq|35|-1|-1|-1|1|                 _[""]   |               _[    ]   |              [______]   |Escalera|Puedes bajar al primer piso
+#s:34|Ascensor arriba izq|-1|-1|35|-1|1|              ______     |             {__[]__}    | |Ascensor|Puedes bajar al primer piso
+#s:35|Casilla 12|34|41|33|36|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Puedes coger tanto el ascensor como las escaleras
+#s:36|Casilla 13|38|35|40|37|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Tienes aulas tanto al norte como al sur
+#s:37|Casilla 14|39|36|40|-1|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Tienes aulas tanto al norte como al sur
+#s:38|Lab 1|-1|-1|36|-1|0| ____   ___   ____       |(___(  (___)  )___)      | |Laboratorio 1|Estan en clase de practicas
+#s:39|Lab 2|-1|-1|37|-1|0| ____   ___   ____       |(___(  (___)  )___)      | |Laboratorio 2|Esta vacio
+#s:40|Lab 3|37|-1|-1|-1|0| ____   ___   ____       |(___(  (___)  )___)      | |Laboratorio 3|No hay nada que llame la atencion
+#s:41|Casilla 15|43|42|44|35|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Tienes aulas tanto al norte como al sur
+#s:42|Casilla 16|45|46|44|41|1|________     ________    |\__/\__/     \__/\__/    |--------     --------    |Pasillo izquierdo|Tienes la pecera al norte
+#s:43|Lab 4|-1|-1|41|-1|0| ____   ___   ____       |(___(  (___)  )___)      | |Laboratorio 4|Estan en clase de practicas
+#s:44|Lab 5|42|-1|-1|-1|1| ____   ___   ____       |(___(  (___)  )___)      | |Laboratorio 5|Esta vacio
+#s:45|Pecera|-1|-1|42|-1|1|             _________   |            /  o      \/l|            \_________/\l|Pecera|El encargado tiene algo para ti
+#s:46|Baja centro|-1|48|47|42|1|  ____   ____   ____     | [    ] [    ] [    ]    | \____/ \____/ \____/    |Escaleras y ascensor|Puedes bajar al primer piso por aqui
+#s:47|Lab 6|46|-1|-1|-1|1| ____   ___   ____       |(___(  (___)  )___)      | |Laboratorio 6|No puedes salir hasta que no hagas el examen!
+#s:48|Pasillo cerrado|-1|-1|-1|46|0| | | |Pasillo derecho|No puedes seguir avanzando por aqui
+#o:1|Lpiz|-1|Sirve para escribir|1|-1|-1|0|0
+#o:2|Pyct|21|Proyector del aula|0|-1|-1|0|0
+#o:3|Lbro|20|Sirve para estudiar|1|-1|-1|0|0
+#o:4|Doge|13|Animal de compania|0|-1|-1|0|0
+#o:5|Key1|47|Llave que abre el salon de actos|1|-1|18|0|0
+#o:6|Key2|23|Llave que abre el laboratorio 6|1|-1|53|0|0
+#o:7|Key3|27|Llave que abre el comedor|1|-1|31|0|0
+#o:8|Cmda|27|Regenera vida|1|-1|-1|0|0
+#o:9|Orde|19|Para aprobar practicas|0|-1|-1|0|0
+#o:10|Sill|44|Para sentarse|0|11|-1|0|0
+#o:11|Mesa|9|Para apoyarse|0|10|-1|0|0
+#o:12|Calc|7|Para el examen|1|-1|-1|1|0
+#o:13|Exam|47|Vas a aprobar todas? Respuestas: a) Si  b) No|0|-1|-1|0|0
+#o:14|Titu|13|Has conseguido superar la universidad!|1|-1|-1|0|0
+#o:15|Plas|45|Para la linterna|1|-1|-1|1|0
+#o:16|Lnta|45|Para iluminar|1|15|-1|1|0
+#o:17|Clck|10|Para mirar el tiempo|0|-1|-1|0|0
+#o:18|Apts|7|Para ayudarte en el examen|1|-1|-1|0|0
+#o:19|Mscr|-1|Hay COVID|1|-1|-1|0|0
+#o:20|Gelh|-1|Si no te lo echas no pasas|1|-1|-1|0|0
+#p:1|ply1|0|5|1|19|20
+#l:1|Lnk1|32|1|0|NS
+#l:2|Lnk2|1|14|0|OE
+#l:3|Lnk3|2|1|0|OE
+#l:4|Lnk4|8|2|0|NS
+#l:5|Lnk5|2|7|0|NS
+#l:6|Lnk6|3|2|0|OE
+#l:7|Lnk7|9|3|0|NS
+#l:8|Lnk8|3|7|0|NS
+#l:9|Lnk9|4|3|0|OE
+#l:10|Lnk10|28|4|0|NS
+#l:11|Lnk11|4|29|0|NS
+#l:12|Lnk12|5|4|0|OE
+#l:13|Lnk13|12|5|1|NS
+#l:14|Lnk14|5|10|0|NS
+#l:15|Lnk15|6|5|0|OE
+#l:16|Lnk16|11|6|0|NS
+#l:17|Lnk17|6|10|0|NS
+#l:18|Lnk18|13|6|1|OE
+#l:19|Lnk19|19|14|0|NS
+#l:20|Lnk20|14|15|0|OE
+#l:21|Lnk21|14|21|0|NS
+#l:22|Lnk22|20|15|0|NS
+#l:23|Lnk23|15|21|0|NS
+#l:24|Lnk24|15|16|0|OE
+#l:25|Lnk25|30|16|1|NS
+#l:26|Lnk26|16|31|1|NS
+#l:27|Lnk27|16|17|0|OE
+#l:28|Lnk28|25|17|0|NS
+#l:29|Lnk29|17|18|0|OE
+#l:30|Lnk30|17|22|1|NS
+#l:31|Lnk31|24|18|1|NS
+#l:32|Lnk32|18|27|0|OE
+#l:33|Lnk33|18|23|0|NS
+#l:34|Lnk34|26|25|1|NS
+#l:35|Lnk35|34|28|0|NS
+#l:36|Lnk36|29|33|0|NS
+#l:37|Lnk37|35|33|0|NS
+#l:38|Lnk38|36|35|0|OE
+#l:39|Lnk39|34|35|0|NS
+#l:40|Lnk40|35|41|0|OE
+#l:41|Lnk41|38|36|0|NS
+#l:42|Lnk42|36|40|0|NS
+#l:43|Lnk43|37|36|0|OE
+#l:44|Lnk44|39|37|0|NS
+#l:45|Lnk45|37|40|0|NS
+#l:46|Lnk46|43|41|0|NS
+#l:47|Lnk47|41|44|0|NS
+#l:48|Lnk48|41|42|0|OE
+#l:49|Lnk49|45|42|0|NS
+#l:50|Lnk50|42|44|0|NS
+#l:51|Lnk51|42|46|0|OE
+#l:52|Lnk52|46|48|1|OE
+#l:53|Lnk53|46|47|1|NS
+#l:54|Lnk54|46|32|0|UD
+#l:55|Lnk55|34|28|0|UD
+#l:56|Lnk56|33|29|0|UD
